@@ -5,3 +5,8 @@ Welcome back Rdm!!
 Your id = 55789
 Your level = 121
 Your total balance = 5846
+
+Congratulations!!
+You are promoted 2 Levels
+Now Your level is 123 
+Best of Luck!
